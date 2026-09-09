@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "My Study Buddy",
-  description: "App that allows you to study with students of your field. Learn, Grow, Build togethe",
+  description: "App that allows you to study with students of your field. Learn, Grow, Build together",
 };
 
 export default function RootLayout({ children }) {
