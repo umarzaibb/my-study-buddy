@@ -9,7 +9,6 @@ import Navbar from "react-bootstrap/Navbar";
 import Offcanvas from "react-bootstrap/Offcanvas";
 import Button from "react-bootstrap/Button";
 import Image from "next/image";
-
 import Logo from "../public/logo.png";
 
 export default function Landing_Navbar() {
