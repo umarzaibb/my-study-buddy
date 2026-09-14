@@ -4,6 +4,7 @@
     padding: 4rem;
     margin-top: 3rem;
     border: none;
+    align-items: center;
     /* flex-wrap: wrap; */
 }
 
@@ -15,9 +16,9 @@
     min-width: 40vw;
 }
 
-.hero_text {
-    flex-shrink: 0.5 !important;
-} 
+/* .hero_text {
+    padding-top: 3rem !important;
+}  */
 
 
 @media (max-width: 1000px) {
@@ -58,4 +59,3 @@
 
 }
 }
-

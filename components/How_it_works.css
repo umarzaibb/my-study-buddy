@@ -1,0 +1,21 @@
+.all_cards_div {
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+
+}
+
+.how_it_work_card {
+  width: 100%;
+  height: 100%;
+  border: none !important;
+}
+
+/* Tablet */
+@media (max-width: 992px) {
+  .all_cards_div {
+    grid-template-columns: 1fr;
+    width: 85%;
+  }
+}
