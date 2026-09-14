@@ -48,7 +48,7 @@ export default function Landing_Navbar() {
 
             {/* Main navigation */}
             <Nav className="justify-content-center flex-grow-1 text-xl!">
-              <Nav.Link href="#home" className="pl-8!">
+              <Nav.Link href="#how-it-works" className="pl-8!">
                 How it works
               </Nav.Link>
 
